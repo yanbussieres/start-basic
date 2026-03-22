@@ -1,4 +1,4 @@
-# TanStack Start - Basic Example
+# TanStack Start - Basic Example - VITE8
 
 This is the basic TanStack Start example, demonstrating the fundamentals of building applications with TanStack Router and TanStack Start.
 
